@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://majidalawa.github.io/amidemo48gh/sitemap.xml
